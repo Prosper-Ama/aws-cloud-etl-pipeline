@@ -1,2 +1,32 @@
 .env
 *.env
+terraform.tfvars
+*.tfvars
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Parquet or CSV/JSON data
+*.parquet
+*.csv
+*.json
+raw_data/
+
+# AWS credentials (never commit!)
+*.pem
+aws_credentials
+
+# Docker
+*.tar
+*.img
+
+# VS Code
+.vscode/
+.local_resource/

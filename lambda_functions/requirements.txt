@@ -1,0 +1,5 @@
+pandas==1.5.3
+numpy==1.23.5
+s3fs==2023.6.0
+pyarrow==12.0.1
+boto3
