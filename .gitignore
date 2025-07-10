@@ -13,12 +13,6 @@ __pycache__/
 *.tfstate.*
 .terraform/
 
-# Parquet or CSV/JSON data
-*.parquet
-*.csv
-*.json
-raw_data/
-
 # AWS credentials (never commit!)
 *.pem
 aws_credentials

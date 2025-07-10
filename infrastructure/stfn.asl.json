@@ -1,0 +1,11 @@
+{
+  "Comment": "ETL Step Function to trigger Lambda",
+  "StartAt": "RunETLJob",
+  "States": {
+    "RunETLJob": {
+      "Type": "Task",
+      "Resource": "${LAMBDA_ARN_PLACEHOLDER}",
+      "End": true
+    }
+  }
+}

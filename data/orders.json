@@ -1,0 +1,1942 @@
+[
+    {
+        "Order_ID": 44190,
+        "Customer_ID": 8141,
+        "Order_Date": "2025-01-28",
+        "Store_ID": 1,
+        "Total_Amount": 408.06,
+        "Items": [
+            {
+                "Product_ID": 2012,
+                "Quantity": 3,
+                "Unit_Price": 152.13
+            },
+            {
+                "Product_ID": 2007,
+                "Quantity": 1,
+                "Unit_Price": 30.94
+            }
+        ]
+    },
+    {
+        "Order_ID": 22469,
+        "Customer_ID": 5402,
+        "Order_Date": "2023-09-23",
+        "Store_ID": 1,
+        "Total_Amount": 462.38,
+        "Items": [
+            {
+                "Product_ID": 2012,
+                "Quantity": 1,
+                "Unit_Price": 57.91
+            },
+            {
+                "Product_ID": 2019,
+                "Quantity": 3,
+                "Unit_Price": 126.14
+            }
+        ]
+    },
+    {
+        "Order_ID": 57269,
+        "Customer_ID": 7970,
+        "Order_Date": "2025-02-10",
+        "Store_ID": 1,
+        "Total_Amount": 309.73,
+        "Items": [
+            {
+                "Product_ID": 2018,
+                "Quantity": 3,
+                "Unit_Price": 86.17
+            },
+            {
+                "Product_ID": 2008,
+                "Quantity": 2,
+                "Unit_Price": 162.59
+            }
+        ]
+    },
+    {
+        "Order_ID": 38138,
+        "Customer_ID": 7540,
+        "Order_Date": "2024-07-09",
+        "Store_ID": 1,
+        "Total_Amount": 50.84,
+        "Items": [
+            {
+                "Product_ID": 2005,
+                "Quantity": 3,
+                "Unit_Price": 159.56
+            },
+            {
+                "Product_ID": 2017,
+                "Quantity": 5,
+                "Unit_Price": 168.93
+            }
+        ]
+    },
+    {
+        "Order_ID": 16523,
+        "Customer_ID": 6975,
+        "Order_Date": "2024-03-09",
+        "Store_ID": 1,
+        "Total_Amount": 197.25,
+        "Items": [
+            {
+                "Product_ID": 2019,
+                "Quantity": 5,
+                "Unit_Price": 142.71
+            },
+            {
+                "Product_ID": 2013,
+                "Quantity": 5,
+                "Unit_Price": 126.25
+            },
+            {
+                "Product_ID": 2017,
+                "Quantity": 3,
+                "Unit_Price": 19.0
+            }
+        ]
+    },
+    {
+        "Order_ID": 42008,
+        "Customer_ID": 6791,
+        "Order_Date": "2024-03-19",
+        "Store_ID": 4,
+        "Total_Amount": 158.3,
+        "Items": [
+            {
+                "Product_ID": 2016,
+                "Quantity": 1,
+                "Unit_Price": 175.59
+            },
+            {
+                "Product_ID": 2000,
+                "Quantity": 3,
+                "Unit_Price": 12.22
+            },
+            {
+                "Product_ID": 2015,
+                "Quantity": 2,
+                "Unit_Price": 5.52
+            }
+        ]
+    },
+    {
+        "Order_ID": 10164,
+        "Customer_ID": 9229,
+        "Order_Date": "2023-11-19",
+        "Store_ID": 2,
+        "Total_Amount": 123.26,
+        "Items": [
+            {
+                "Product_ID": 2010,
+                "Quantity": 4,
+                "Unit_Price": 120.71
+            },
+            {
+                "Product_ID": 2016,
+                "Quantity": 1,
+                "Unit_Price": 126.33
+            },
+            {
+                "Product_ID": 2002,
+                "Quantity": 2,
+                "Unit_Price": 191.19
+            }
+        ]
+    },
+    {
+        "Order_ID": 11492,
+        "Customer_ID": 7846,
+        "Order_Date": "2025-02-03",
+        "Store_ID": 5,
+        "Total_Amount": 71.01,
+        "Items": [
+            {
+                "Product_ID": 2012,
+                "Quantity": 5,
+                "Unit_Price": 56.8
+            },
+            {
+                "Product_ID": 2019,
+                "Quantity": 2,
+                "Unit_Price": 30.49
+            }
+        ]
+    },
+    {
+        "Order_ID": 57226,
+        "Customer_ID": 9973,
+        "Order_Date": "2023-07-01",
+        "Store_ID": 3,
+        "Total_Amount": 160.97,
+        "Items": [
+            {
+                "Product_ID": 2001,
+                "Quantity": 5,
+                "Unit_Price": 187.6
+            },
+            {
+                "Product_ID": 2002,
+                "Quantity": 3,
+                "Unit_Price": 126.36
+            },
+            {
+                "Product_ID": 2017,
+                "Quantity": 3,
+                "Unit_Price": 43.44
+            }
+        ]
+    },
+    {
+        "Order_ID": 50441,
+        "Customer_ID": 5154,
+        "Order_Date": "2023-09-19",
+        "Store_ID": 3,
+        "Total_Amount": 480.32,
+        "Items": [
+            {
+                "Product_ID": 2014,
+                "Quantity": 2,
+                "Unit_Price": 97.03
+            },
+            {
+                "Product_ID": 2001,
+                "Quantity": 1,
+                "Unit_Price": 122.0
+            },
+            {
+                "Product_ID": 2014,
+                "Quantity": 1,
+                "Unit_Price": 16.84
+            }
+        ]
+    },
+    {
+        "Order_ID": 77414,
+        "Customer_ID": 9968,
+        "Order_Date": "2024-12-16",
+        "Store_ID": 4,
+        "Total_Amount": 81.91,
+        "Items": [
+            {
+                "Product_ID": 2018,
+                "Quantity": 3,
+                "Unit_Price": 187.71
+            },
+            {
+                "Product_ID": 2015,
+                "Quantity": 2,
+                "Unit_Price": 117.62
+            },
+            {
+                "Product_ID": 2015,
+                "Quantity": 1,
+                "Unit_Price": 119.86
+            }
+        ]
+    },
+    {
+        "Order_ID": 63510,
+        "Customer_ID": 8525,
+        "Order_Date": "2024-03-19",
+        "Store_ID": 4,
+        "Total_Amount": 49.75,
+        "Items": [
+            {
+                "Product_ID": 2014,
+                "Quantity": 5,
+                "Unit_Price": 99.92
+            },
+            {
+                "Product_ID": 2018,
+                "Quantity": 5,
+                "Unit_Price": 166.29
+            }
+        ]
+    },
+    {
+        "Order_ID": 76593,
+        "Customer_ID": 8347,
+        "Order_Date": "2023-11-24",
+        "Store_ID": 4,
+        "Total_Amount": 349.99,
+        "Items": [
+            {
+                "Product_ID": 2008,
+                "Quantity": 2,
+                "Unit_Price": 112.34
+            },
+            {
+                "Product_ID": 2018,
+                "Quantity": 1,
+                "Unit_Price": 106.58
+            },
+            {
+                "Product_ID": 2002,
+                "Quantity": 2,
+                "Unit_Price": 94.48
+            }
+        ]
+    },
+    {
+        "Order_ID": 86455,
+        "Customer_ID": 9096,
+        "Order_Date": "2023-12-13",
+        "Store_ID": 5,
+        "Total_Amount": 383.61,
+        "Items": [
+            {
+                "Product_ID": 2019,
+                "Quantity": 4,
+                "Unit_Price": 82.61
+            },
+            {
+                "Product_ID": 2010,
+                "Quantity": 1,
+                "Unit_Price": 62.6
+            }
+        ]
+    },
+    {
+        "Order_ID": 19748,
+        "Customer_ID": 7449,
+        "Order_Date": "2023-07-28",
+        "Store_ID": 4,
+        "Total_Amount": 479.46,
+        "Items": [
+            {
+                "Product_ID": 2003,
+                "Quantity": 2,
+                "Unit_Price": 36.46
+            },
+            {
+                "Product_ID": 2017,
+                "Quantity": 4,
+                "Unit_Price": 10.52
+            },
+            {
+                "Product_ID": 2018,
+                "Quantity": 1,
+                "Unit_Price": 190.28
+            }
+        ]
+    },
+    {
+        "Order_ID": 46315,
+        "Customer_ID": 5020,
+        "Order_Date": "2025-01-10",
+        "Store_ID": 1,
+        "Total_Amount": 191.84,
+        "Items": [
+            {
+                "Product_ID": 2003,
+                "Quantity": 4,
+                "Unit_Price": 76.95
+            },
+            {
+                "Product_ID": 2001,
+                "Quantity": 3,
+                "Unit_Price": 51.46
+            },
+            {
+                "Product_ID": 2005,
+                "Quantity": 2,
+                "Unit_Price": 68.33
+            }
+        ]
+    },
+    {
+        "Order_ID": 81279,
+        "Customer_ID": 7103,
+        "Order_Date": "2024-01-11",
+        "Store_ID": 3,
+        "Total_Amount": 469.93,
+        "Items": [
+            {
+                "Product_ID": 2011,
+                "Quantity": 5,
+                "Unit_Price": 172.7
+            },
+            {
+                "Product_ID": 2013,
+                "Quantity": 2,
+                "Unit_Price": 38.57
+            },
+            {
+                "Product_ID": 2002,
+                "Quantity": 2,
+                "Unit_Price": 67.46
+            }
+        ]
+    },
+    {
+        "Order_ID": 53534,
+        "Customer_ID": 9448,
+        "Order_Date": "2024-09-08",
+        "Store_ID": 5,
+        "Total_Amount": 393.22,
+        "Items": [
+            {
+                "Product_ID": 2014,
+                "Quantity": 4,
+                "Unit_Price": 118.99
+            },
+            {
+                "Product_ID": 2015,
+                "Quantity": 4,
+                "Unit_Price": 50.84
+            }
+        ]
+    },
+    {
+        "Order_ID": 43298,
+        "Customer_ID": 9160,
+        "Order_Date": "2025-03-24",
+        "Store_ID": 2,
+        "Total_Amount": 158.86,
+        "Items": [
+            {
+                "Product_ID": 2009,
+                "Quantity": 1,
+                "Unit_Price": 44.92
+            }
+        ]
+    },
+    {
+        "Order_ID": 53791,
+        "Customer_ID": 5016,
+        "Order_Date": "2023-12-28",
+        "Store_ID": 5,
+        "Total_Amount": 143.41,
+        "Items": [
+            {
+                "Product_ID": 2001,
+                "Quantity": 1,
+                "Unit_Price": 12.32
+            }
+        ]
+    },
+    {
+        "Order_ID": 21461,
+        "Customer_ID": 7530,
+        "Order_Date": "2025-01-09",
+        "Store_ID": 4,
+        "Total_Amount": 63.08,
+        "Items": [
+            {
+                "Product_ID": 2017,
+                "Quantity": 1,
+                "Unit_Price": 155.11
+            },
+            {
+                "Product_ID": 2008,
+                "Quantity": 2,
+                "Unit_Price": 29.21
+            }
+        ]
+    },
+    {
+        "Order_ID": 10558,
+        "Customer_ID": 8860,
+        "Order_Date": "2023-07-01",
+        "Store_ID": 3,
+        "Total_Amount": 67.49,
+        "Items": [
+            {
+                "Product_ID": 2019,
+                "Quantity": 4,
+                "Unit_Price": 178.47
+            }
+        ]
+    },
+    {
+        "Order_ID": 37473,
+        "Customer_ID": 7647,
+        "Order_Date": "2023-06-13",
+        "Store_ID": 4,
+        "Total_Amount": 225.66,
+        "Items": [
+            {
+                "Product_ID": 2019,
+                "Quantity": 4,
+                "Unit_Price": 98.36
+            }
+        ]
+    },
+    {
+        "Order_ID": 89362,
+        "Customer_ID": 7987,
+        "Order_Date": "2025-02-03",
+        "Store_ID": 4,
+        "Total_Amount": 360.78,
+        "Items": [
+            {
+                "Product_ID": 2011,
+                "Quantity": 4,
+                "Unit_Price": 176.49
+            },
+            {
+                "Product_ID": 2007,
+                "Quantity": 4,
+                "Unit_Price": 59.65
+            }
+        ]
+    },
+    {
+        "Order_ID": 52197,
+        "Customer_ID": 9146,
+        "Order_Date": "2023-07-14",
+        "Store_ID": 5,
+        "Total_Amount": 53.14,
+        "Items": [
+            {
+                "Product_ID": 2007,
+                "Quantity": 3,
+                "Unit_Price": 74.21
+            },
+            {
+                "Product_ID": 2010,
+                "Quantity": 3,
+                "Unit_Price": 100.73
+            }
+        ]
+    },
+    {
+        "Order_ID": 30211,
+        "Customer_ID": 8651,
+        "Order_Date": "2025-02-14",
+        "Store_ID": 2,
+        "Total_Amount": 193.46,
+        "Items": [
+            {
+                "Product_ID": 2000,
+                "Quantity": 2,
+                "Unit_Price": 128.71
+            },
+            {
+                "Product_ID": 2013,
+                "Quantity": 2,
+                "Unit_Price": 151.66
+            },
+            {
+                "Product_ID": 2006,
+                "Quantity": 1,
+                "Unit_Price": 37.61
+            }
+        ]
+    },
+    {
+        "Order_ID": 58769,
+        "Customer_ID": 9230,
+        "Order_Date": "2023-03-30",
+        "Store_ID": 3,
+        "Total_Amount": 20.24,
+        "Items": [
+            {
+                "Product_ID": 2004,
+                "Quantity": 2,
+                "Unit_Price": 93.3
+            }
+        ]
+    },
+    {
+        "Order_ID": 98186,
+        "Customer_ID": 7724,
+        "Order_Date": "2024-04-18",
+        "Store_ID": 4,
+        "Total_Amount": 420.06,
+        "Items": [
+            {
+                "Product_ID": 2015,
+                "Quantity": 1,
+                "Unit_Price": 163.48
+            },
+            {
+                "Product_ID": 2015,
+                "Quantity": 2,
+                "Unit_Price": 123.73
+            }
+        ]
+    },
+    {
+        "Order_ID": 83885,
+        "Customer_ID": 8026,
+        "Order_Date": "2023-09-24",
+        "Store_ID": 3,
+        "Total_Amount": 485.22,
+        "Items": [
+            {
+                "Product_ID": 2014,
+                "Quantity": 4,
+                "Unit_Price": 73.72
+            },
+            {
+                "Product_ID": 2011,
+                "Quantity": 3,
+                "Unit_Price": 6.62
+            }
+        ]
+    },
+    {
+        "Order_ID": 13298,
+        "Customer_ID": 7292,
+        "Order_Date": "2023-11-26",
+        "Store_ID": 2,
+        "Total_Amount": 174.21,
+        "Items": [
+            {
+                "Product_ID": 2014,
+                "Quantity": 4,
+                "Unit_Price": 97.91
+            }
+        ]
+    },
+    {
+        "Order_ID": 61757,
+        "Customer_ID": 8941,
+        "Order_Date": "2023-04-13",
+        "Store_ID": 5,
+        "Total_Amount": 493.87,
+        "Items": [
+            {
+                "Product_ID": 2015,
+                "Quantity": 1,
+                "Unit_Price": 89.28
+            }
+        ]
+    },
+    {
+        "Order_ID": 20400,
+        "Customer_ID": 9675,
+        "Order_Date": "2024-09-30",
+        "Store_ID": 2,
+        "Total_Amount": 410.83,
+        "Items": [
+            {
+                "Product_ID": 2013,
+                "Quantity": 4,
+                "Unit_Price": 38.47
+            },
+            {
+                "Product_ID": 2014,
+                "Quantity": 1,
+                "Unit_Price": 67.76
+            },
+            {
+                "Product_ID": 2006,
+                "Quantity": 1,
+                "Unit_Price": 24.69
+            }
+        ]
+    },
+    {
+        "Order_ID": 39432,
+        "Customer_ID": 6696,
+        "Order_Date": "2024-04-02",
+        "Store_ID": 1,
+        "Total_Amount": 34.15,
+        "Items": [
+            {
+                "Product_ID": 2013,
+                "Quantity": 3,
+                "Unit_Price": 176.76
+            },
+            {
+                "Product_ID": 2010,
+                "Quantity": 4,
+                "Unit_Price": 8.99
+            }
+        ]
+    },
+    {
+        "Order_ID": 54384,
+        "Customer_ID": 7074,
+        "Order_Date": "2023-12-01",
+        "Store_ID": 2,
+        "Total_Amount": 297.2,
+        "Items": [
+            {
+                "Product_ID": 2014,
+                "Quantity": 3,
+                "Unit_Price": 84.39
+            },
+            {
+                "Product_ID": 2012,
+                "Quantity": 3,
+                "Unit_Price": 29.74
+            },
+            {
+                "Product_ID": 2001,
+                "Quantity": 2,
+                "Unit_Price": 20.31
+            }
+        ]
+    },
+    {
+        "Order_ID": 56040,
+        "Customer_ID": 7647,
+        "Order_Date": "2025-01-14",
+        "Store_ID": 4,
+        "Total_Amount": 233.93,
+        "Items": [
+            {
+                "Product_ID": 2003,
+                "Quantity": 4,
+                "Unit_Price": 108.01
+            }
+        ]
+    },
+    {
+        "Order_ID": 89091,
+        "Customer_ID": 6149,
+        "Order_Date": "2023-06-04",
+        "Store_ID": 4,
+        "Total_Amount": 473.0,
+        "Items": [
+            {
+                "Product_ID": 2018,
+                "Quantity": 3,
+                "Unit_Price": 19.88
+            },
+            {
+                "Product_ID": 2004,
+                "Quantity": 3,
+                "Unit_Price": 45.33
+            },
+            {
+                "Product_ID": 2014,
+                "Quantity": 2,
+                "Unit_Price": 69.64
+            }
+        ]
+    },
+    {
+        "Order_ID": 66417,
+        "Customer_ID": 5903,
+        "Order_Date": "2024-06-21",
+        "Store_ID": 2,
+        "Total_Amount": 78.36,
+        "Items": [
+            {
+                "Product_ID": 2004,
+                "Quantity": 2,
+                "Unit_Price": 18.9
+            }
+        ]
+    },
+    {
+        "Order_ID": 68855,
+        "Customer_ID": 5399,
+        "Order_Date": "2024-08-03",
+        "Store_ID": 5,
+        "Total_Amount": 386.57,
+        "Items": [
+            {
+                "Product_ID": 2007,
+                "Quantity": 3,
+                "Unit_Price": 42.24
+            },
+            {
+                "Product_ID": 2002,
+                "Quantity": 5,
+                "Unit_Price": 167.25
+            },
+            {
+                "Product_ID": 2011,
+                "Quantity": 3,
+                "Unit_Price": 127.62
+            }
+        ]
+    },
+    {
+        "Order_ID": 70134,
+        "Customer_ID": 5766,
+        "Order_Date": "2024-06-16",
+        "Store_ID": 3,
+        "Total_Amount": 100.59,
+        "Items": [
+            {
+                "Product_ID": 2008,
+                "Quantity": 3,
+                "Unit_Price": 22.51
+            }
+        ]
+    },
+    {
+        "Order_ID": 76520,
+        "Customer_ID": 5792,
+        "Order_Date": "2023-11-17",
+        "Store_ID": 3,
+        "Total_Amount": 480.68,
+        "Items": [
+            {
+                "Product_ID": 2006,
+                "Quantity": 3,
+                "Unit_Price": 160.21
+            },
+            {
+                "Product_ID": 2007,
+                "Quantity": 4,
+                "Unit_Price": 34.25
+            },
+            {
+                "Product_ID": 2016,
+                "Quantity": 1,
+                "Unit_Price": 175.18
+            }
+        ]
+    },
+    {
+        "Order_ID": 42563,
+        "Customer_ID": 7443,
+        "Order_Date": "2024-04-12",
+        "Store_ID": 5,
+        "Total_Amount": 266.59,
+        "Items": [
+            {
+                "Product_ID": 2007,
+                "Quantity": 2,
+                "Unit_Price": 89.83
+            }
+        ]
+    },
+    {
+        "Order_ID": 12204,
+        "Customer_ID": 6137,
+        "Order_Date": "2023-11-10",
+        "Store_ID": 4,
+        "Total_Amount": 225.1,
+        "Items": [
+            {
+                "Product_ID": 2016,
+                "Quantity": 3,
+                "Unit_Price": 88.54
+            },
+            {
+                "Product_ID": 2004,
+                "Quantity": 1,
+                "Unit_Price": 10.66
+            },
+            {
+                "Product_ID": 2012,
+                "Quantity": 5,
+                "Unit_Price": 52.2
+            }
+        ]
+    },
+    {
+        "Order_ID": 44412,
+        "Customer_ID": 7925,
+        "Order_Date": "2023-12-28",
+        "Store_ID": 5,
+        "Total_Amount": 301.08,
+        "Items": [
+            {
+                "Product_ID": 2010,
+                "Quantity": 5,
+                "Unit_Price": 10.54
+            }
+        ]
+    },
+    {
+        "Order_ID": 73426,
+        "Customer_ID": 5001,
+        "Order_Date": "2023-12-13",
+        "Store_ID": 5,
+        "Total_Amount": 296.88,
+        "Items": [
+            {
+                "Product_ID": 2017,
+                "Quantity": 2,
+                "Unit_Price": 33.28
+            },
+            {
+                "Product_ID": 2004,
+                "Quantity": 5,
+                "Unit_Price": 113.14
+            }
+        ]
+    },
+    {
+        "Order_ID": 86399,
+        "Customer_ID": 8619,
+        "Order_Date": "2025-02-11",
+        "Store_ID": 2,
+        "Total_Amount": 123.24,
+        "Items": [
+            {
+                "Product_ID": 2006,
+                "Quantity": 4,
+                "Unit_Price": 165.74
+            },
+            {
+                "Product_ID": 2015,
+                "Quantity": 3,
+                "Unit_Price": 56.64
+            }
+        ]
+    },
+    {
+        "Order_ID": 52854,
+        "Customer_ID": 6793,
+        "Order_Date": "2025-03-05",
+        "Store_ID": 1,
+        "Total_Amount": 247.06,
+        "Items": [
+            {
+                "Product_ID": 2000,
+                "Quantity": 3,
+                "Unit_Price": 96.4
+            }
+        ]
+    },
+    {
+        "Order_ID": 29854,
+        "Customer_ID": 6976,
+        "Order_Date": "2025-02-25",
+        "Store_ID": 5,
+        "Total_Amount": 249.09,
+        "Items": [
+            {
+                "Product_ID": 2003,
+                "Quantity": 5,
+                "Unit_Price": 103.53
+            },
+            {
+                "Product_ID": 2011,
+                "Quantity": 5,
+                "Unit_Price": 175.89
+            },
+            {
+                "Product_ID": 2000,
+                "Quantity": 2,
+                "Unit_Price": 52.78
+            }
+        ]
+    },
+    {
+        "Order_ID": 16967,
+        "Customer_ID": 6487,
+        "Order_Date": "2024-10-17",
+        "Store_ID": 1,
+        "Total_Amount": 390.84,
+        "Items": [
+            {
+                "Product_ID": 2007,
+                "Quantity": 2,
+                "Unit_Price": 5.44
+            }
+        ]
+    },
+    {
+        "Order_ID": 29965,
+        "Customer_ID": 6376,
+        "Order_Date": "2023-06-01",
+        "Store_ID": 1,
+        "Total_Amount": 495.91,
+        "Items": [
+            {
+                "Product_ID": 2011,
+                "Quantity": 2,
+                "Unit_Price": 151.54
+            },
+            {
+                "Product_ID": 2011,
+                "Quantity": 4,
+                "Unit_Price": 146.83
+            },
+            {
+                "Product_ID": 2004,
+                "Quantity": 5,
+                "Unit_Price": 7.82
+            }
+        ]
+    },
+    {
+        "Order_ID": 11310,
+        "Customer_ID": 9556,
+        "Order_Date": "2024-03-10",
+        "Store_ID": 5,
+        "Total_Amount": 415.6,
+        "Items": [
+            {
+                "Product_ID": 2016,
+                "Quantity": 2,
+                "Unit_Price": 26.9
+            },
+            {
+                "Product_ID": 2007,
+                "Quantity": 5,
+                "Unit_Price": 122.77
+            },
+            {
+                "Product_ID": 2012,
+                "Quantity": 2,
+                "Unit_Price": 151.07
+            }
+        ]
+    },
+    {
+        "Order_ID": 97619,
+        "Customer_ID": 8270,
+        "Order_Date": "2024-08-11",
+        "Store_ID": 2,
+        "Total_Amount": 418.45,
+        "Items": [
+            {
+                "Product_ID": 2019,
+                "Quantity": 1,
+                "Unit_Price": 177.78
+            },
+            {
+                "Product_ID": 2012,
+                "Quantity": 5,
+                "Unit_Price": 196.02
+            }
+        ]
+    },
+    {
+        "Order_ID": 37394,
+        "Customer_ID": 9562,
+        "Order_Date": "2025-03-24",
+        "Store_ID": 3,
+        "Total_Amount": 408.39,
+        "Items": [
+            {
+                "Product_ID": 2017,
+                "Quantity": 2,
+                "Unit_Price": 104.16
+            },
+            {
+                "Product_ID": 2017,
+                "Quantity": 4,
+                "Unit_Price": 11.43
+            },
+            {
+                "Product_ID": 2012,
+                "Quantity": 4,
+                "Unit_Price": 185.2
+            }
+        ]
+    },
+    {
+        "Order_ID": 43514,
+        "Customer_ID": 8167,
+        "Order_Date": "2024-09-01",
+        "Store_ID": 1,
+        "Total_Amount": 166.58,
+        "Items": [
+            {
+                "Product_ID": 2004,
+                "Quantity": 4,
+                "Unit_Price": 43.23
+            },
+            {
+                "Product_ID": 2000,
+                "Quantity": 5,
+                "Unit_Price": 160.37
+            },
+            {
+                "Product_ID": 2014,
+                "Quantity": 1,
+                "Unit_Price": 52.76
+            }
+        ]
+    },
+    {
+        "Order_ID": 38671,
+        "Customer_ID": 7826,
+        "Order_Date": "2023-11-06",
+        "Store_ID": 1,
+        "Total_Amount": 90.03,
+        "Items": [
+            {
+                "Product_ID": 2003,
+                "Quantity": 4,
+                "Unit_Price": 23.72
+            },
+            {
+                "Product_ID": 2004,
+                "Quantity": 2,
+                "Unit_Price": 98.14
+            },
+            {
+                "Product_ID": 2002,
+                "Quantity": 3,
+                "Unit_Price": 174.94
+            }
+        ]
+    },
+    {
+        "Order_ID": 91059,
+        "Customer_ID": 5521,
+        "Order_Date": "2024-05-09",
+        "Store_ID": 2,
+        "Total_Amount": 93.31,
+        "Items": [
+            {
+                "Product_ID": 2019,
+                "Quantity": 2,
+                "Unit_Price": 21.39
+            }
+        ]
+    },
+    {
+        "Order_ID": 18460,
+        "Customer_ID": 8906,
+        "Order_Date": "2023-05-03",
+        "Store_ID": 2,
+        "Total_Amount": 270.79,
+        "Items": [
+            {
+                "Product_ID": 2007,
+                "Quantity": 3,
+                "Unit_Price": 189.63
+            },
+            {
+                "Product_ID": 2006,
+                "Quantity": 4,
+                "Unit_Price": 68.96
+            },
+            {
+                "Product_ID": 2019,
+                "Quantity": 4,
+                "Unit_Price": 144.2
+            }
+        ]
+    },
+    {
+        "Order_ID": 97178,
+        "Customer_ID": 5808,
+        "Order_Date": "2024-05-24",
+        "Store_ID": 4,
+        "Total_Amount": 257.68,
+        "Items": [
+            {
+                "Product_ID": 2006,
+                "Quantity": 2,
+                "Unit_Price": 84.59
+            },
+            {
+                "Product_ID": 2002,
+                "Quantity": 5,
+                "Unit_Price": 189.6
+            },
+            {
+                "Product_ID": 2003,
+                "Quantity": 2,
+                "Unit_Price": 165.67
+            }
+        ]
+    },
+    {
+        "Order_ID": 89623,
+        "Customer_ID": 8700,
+        "Order_Date": "2025-03-03",
+        "Store_ID": 1,
+        "Total_Amount": 497.74,
+        "Items": [
+            {
+                "Product_ID": 2013,
+                "Quantity": 5,
+                "Unit_Price": 27.41
+            },
+            {
+                "Product_ID": 2011,
+                "Quantity": 1,
+                "Unit_Price": 93.94
+            },
+            {
+                "Product_ID": 2012,
+                "Quantity": 4,
+                "Unit_Price": 24.33
+            }
+        ]
+    },
+    {
+        "Order_ID": 32330,
+        "Customer_ID": 7134,
+        "Order_Date": "2024-10-28",
+        "Store_ID": 4,
+        "Total_Amount": 293.55,
+        "Items": [
+            {
+                "Product_ID": 2002,
+                "Quantity": 4,
+                "Unit_Price": 145.45
+            },
+            {
+                "Product_ID": 2019,
+                "Quantity": 1,
+                "Unit_Price": 30.49
+            },
+            {
+                "Product_ID": 2006,
+                "Quantity": 2,
+                "Unit_Price": 153.69
+            }
+        ]
+    },
+    {
+        "Order_ID": 10916,
+        "Customer_ID": 5061,
+        "Order_Date": "2023-05-18",
+        "Store_ID": 2,
+        "Total_Amount": 205.21,
+        "Items": [
+            {
+                "Product_ID": 2015,
+                "Quantity": 5,
+                "Unit_Price": 41.07
+            },
+            {
+                "Product_ID": 2007,
+                "Quantity": 5,
+                "Unit_Price": 97.19
+            }
+        ]
+    },
+    {
+        "Order_ID": 63709,
+        "Customer_ID": 9884,
+        "Order_Date": "2023-07-13",
+        "Store_ID": 5,
+        "Total_Amount": 214.54,
+        "Items": [
+            {
+                "Product_ID": 2005,
+                "Quantity": 1,
+                "Unit_Price": 110.14
+            },
+            {
+                "Product_ID": 2007,
+                "Quantity": 2,
+                "Unit_Price": 73.78
+            },
+            {
+                "Product_ID": 2000,
+                "Quantity": 1,
+                "Unit_Price": 67.43
+            }
+        ]
+    },
+    {
+        "Order_ID": 16607,
+        "Customer_ID": 7176,
+        "Order_Date": "2024-04-04",
+        "Store_ID": 4,
+        "Total_Amount": 357.44,
+        "Items": [
+            {
+                "Product_ID": 2007,
+                "Quantity": 4,
+                "Unit_Price": 103.83
+            },
+            {
+                "Product_ID": 2004,
+                "Quantity": 3,
+                "Unit_Price": 70.36
+            }
+        ]
+    },
+    {
+        "Order_ID": 38612,
+        "Customer_ID": 7015,
+        "Order_Date": "2024-11-24",
+        "Store_ID": 3,
+        "Total_Amount": 198.73,
+        "Items": [
+            {
+                "Product_ID": 2018,
+                "Quantity": 5,
+                "Unit_Price": 87.83
+            },
+            {
+                "Product_ID": 2019,
+                "Quantity": 5,
+                "Unit_Price": 21.75
+            },
+            {
+                "Product_ID": 2004,
+                "Quantity": 3,
+                "Unit_Price": 46.9
+            }
+        ]
+    },
+    {
+        "Order_ID": 57370,
+        "Customer_ID": 5225,
+        "Order_Date": "2024-07-31",
+        "Store_ID": 3,
+        "Total_Amount": 107.44,
+        "Items": [
+            {
+                "Product_ID": 2017,
+                "Quantity": 2,
+                "Unit_Price": 53.21
+            },
+            {
+                "Product_ID": 2003,
+                "Quantity": 4,
+                "Unit_Price": 107.15
+            },
+            {
+                "Product_ID": 2016,
+                "Quantity": 3,
+                "Unit_Price": 174.98
+            }
+        ]
+    },
+    {
+        "Order_ID": 44152,
+        "Customer_ID": 8377,
+        "Order_Date": "2023-04-27",
+        "Store_ID": 1,
+        "Total_Amount": 292.92,
+        "Items": [
+            {
+                "Product_ID": 2005,
+                "Quantity": 1,
+                "Unit_Price": 15.94
+            }
+        ]
+    },
+    {
+        "Order_ID": 68103,
+        "Customer_ID": 6222,
+        "Order_Date": "2023-06-07",
+        "Store_ID": 4,
+        "Total_Amount": 302.82,
+        "Items": [
+            {
+                "Product_ID": 2012,
+                "Quantity": 3,
+                "Unit_Price": 22.17
+            },
+            {
+                "Product_ID": 2014,
+                "Quantity": 3,
+                "Unit_Price": 89.27
+            },
+            {
+                "Product_ID": 2007,
+                "Quantity": 5,
+                "Unit_Price": 37.29
+            }
+        ]
+    },
+    {
+        "Order_ID": 33813,
+        "Customer_ID": 8297,
+        "Order_Date": "2023-08-17",
+        "Store_ID": 5,
+        "Total_Amount": 273.12,
+        "Items": [
+            {
+                "Product_ID": 2009,
+                "Quantity": 2,
+                "Unit_Price": 140.97
+            },
+            {
+                "Product_ID": 2002,
+                "Quantity": 2,
+                "Unit_Price": 103.3
+            }
+        ]
+    },
+    {
+        "Order_ID": 42915,
+        "Customer_ID": 9250,
+        "Order_Date": "2024-02-06",
+        "Store_ID": 5,
+        "Total_Amount": 470.24,
+        "Items": [
+            {
+                "Product_ID": 2018,
+                "Quantity": 3,
+                "Unit_Price": 177.19
+            }
+        ]
+    },
+    {
+        "Order_ID": 44348,
+        "Customer_ID": 5554,
+        "Order_Date": "2023-07-15",
+        "Store_ID": 4,
+        "Total_Amount": 199.95,
+        "Items": [
+            {
+                "Product_ID": 2003,
+                "Quantity": 3,
+                "Unit_Price": 72.07
+            },
+            {
+                "Product_ID": 2017,
+                "Quantity": 5,
+                "Unit_Price": 22.8
+            }
+        ]
+    },
+    {
+        "Order_ID": 23725,
+        "Customer_ID": 7506,
+        "Order_Date": "2025-02-07",
+        "Store_ID": 3,
+        "Total_Amount": 245.57,
+        "Items": [
+            {
+                "Product_ID": 2013,
+                "Quantity": 1,
+                "Unit_Price": 69.3
+            }
+        ]
+    },
+    {
+        "Order_ID": 28296,
+        "Customer_ID": 8117,
+        "Order_Date": "2025-01-21",
+        "Store_ID": 4,
+        "Total_Amount": 480.38,
+        "Items": [
+            {
+                "Product_ID": 2014,
+                "Quantity": 4,
+                "Unit_Price": 141.18
+            }
+        ]
+    },
+    {
+        "Order_ID": 14258,
+        "Customer_ID": 9390,
+        "Order_Date": "2023-04-30",
+        "Store_ID": 4,
+        "Total_Amount": 467.82,
+        "Items": [
+            {
+                "Product_ID": 2005,
+                "Quantity": 2,
+                "Unit_Price": 186.62
+            },
+            {
+                "Product_ID": 2004,
+                "Quantity": 2,
+                "Unit_Price": 130.59
+            }
+        ]
+    },
+    {
+        "Order_ID": 72966,
+        "Customer_ID": 9297,
+        "Order_Date": "2024-07-31",
+        "Store_ID": 5,
+        "Total_Amount": 403.38,
+        "Items": [
+            {
+                "Product_ID": 2002,
+                "Quantity": 3,
+                "Unit_Price": 165.68
+            },
+            {
+                "Product_ID": 2014,
+                "Quantity": 5,
+                "Unit_Price": 159.5
+            }
+        ]
+    },
+    {
+        "Order_ID": 65452,
+        "Customer_ID": 6546,
+        "Order_Date": "2025-01-18",
+        "Store_ID": 4,
+        "Total_Amount": 307.85,
+        "Items": [
+            {
+                "Product_ID": 2001,
+                "Quantity": 4,
+                "Unit_Price": 169.44
+            }
+        ]
+    },
+    {
+        "Order_ID": 95633,
+        "Customer_ID": 5227,
+        "Order_Date": "2023-08-29",
+        "Store_ID": 1,
+        "Total_Amount": 457.83,
+        "Items": [
+            {
+                "Product_ID": 2014,
+                "Quantity": 1,
+                "Unit_Price": 107.88
+            },
+            {
+                "Product_ID": 2018,
+                "Quantity": 1,
+                "Unit_Price": 154.6
+            }
+        ]
+    },
+    {
+        "Order_ID": 83287,
+        "Customer_ID": 8829,
+        "Order_Date": "2024-03-27",
+        "Store_ID": 1,
+        "Total_Amount": 443.72,
+        "Items": [
+            {
+                "Product_ID": 2004,
+                "Quantity": 1,
+                "Unit_Price": 126.52
+            },
+            {
+                "Product_ID": 2016,
+                "Quantity": 2,
+                "Unit_Price": 127.89
+            },
+            {
+                "Product_ID": 2017,
+                "Quantity": 2,
+                "Unit_Price": 165.81
+            }
+        ]
+    },
+    {
+        "Order_ID": 26147,
+        "Customer_ID": 8214,
+        "Order_Date": "2024-01-20",
+        "Store_ID": 1,
+        "Total_Amount": 402.49,
+        "Items": [
+            {
+                "Product_ID": 2014,
+                "Quantity": 4,
+                "Unit_Price": 39.3
+            }
+        ]
+    },
+    {
+        "Order_ID": 55142,
+        "Customer_ID": 9885,
+        "Order_Date": "2024-09-15",
+        "Store_ID": 3,
+        "Total_Amount": 60.42,
+        "Items": [
+            {
+                "Product_ID": 2005,
+                "Quantity": 1,
+                "Unit_Price": 100.41
+            },
+            {
+                "Product_ID": 2007,
+                "Quantity": 4,
+                "Unit_Price": 139.45
+            }
+        ]
+    },
+    {
+        "Order_ID": 58003,
+        "Customer_ID": 7281,
+        "Order_Date": "2023-05-03",
+        "Store_ID": 5,
+        "Total_Amount": 357.58,
+        "Items": [
+            {
+                "Product_ID": 2014,
+                "Quantity": 2,
+                "Unit_Price": 144.12
+            },
+            {
+                "Product_ID": 2017,
+                "Quantity": 2,
+                "Unit_Price": 32.29
+            }
+        ]
+    },
+    {
+        "Order_ID": 54038,
+        "Customer_ID": 6008,
+        "Order_Date": "2023-07-26",
+        "Store_ID": 4,
+        "Total_Amount": 269.35,
+        "Items": [
+            {
+                "Product_ID": 2013,
+                "Quantity": 3,
+                "Unit_Price": 48.91
+            },
+            {
+                "Product_ID": 2004,
+                "Quantity": 3,
+                "Unit_Price": 136.54
+            }
+        ]
+    },
+    {
+        "Order_ID": 77657,
+        "Customer_ID": 9907,
+        "Order_Date": "2023-03-30",
+        "Store_ID": 2,
+        "Total_Amount": 39.04,
+        "Items": [
+            {
+                "Product_ID": 2017,
+                "Quantity": 4,
+                "Unit_Price": 91.74
+            }
+        ]
+    },
+    {
+        "Order_ID": 57429,
+        "Customer_ID": 5482,
+        "Order_Date": "2023-09-26",
+        "Store_ID": 5,
+        "Total_Amount": 76.47,
+        "Items": [
+            {
+                "Product_ID": 2019,
+                "Quantity": 5,
+                "Unit_Price": 141.93
+            },
+            {
+                "Product_ID": 2014,
+                "Quantity": 2,
+                "Unit_Price": 97.24
+            },
+            {
+                "Product_ID": 2002,
+                "Quantity": 4,
+                "Unit_Price": 195.37
+            }
+        ]
+    },
+    {
+        "Order_ID": 58193,
+        "Customer_ID": 6788,
+        "Order_Date": "2024-03-19",
+        "Store_ID": 5,
+        "Total_Amount": 220.09,
+        "Items": [
+            {
+                "Product_ID": 2014,
+                "Quantity": 4,
+                "Unit_Price": 87.46
+            },
+            {
+                "Product_ID": 2011,
+                "Quantity": 1,
+                "Unit_Price": 45.38
+            },
+            {
+                "Product_ID": 2009,
+                "Quantity": 1,
+                "Unit_Price": 58.73
+            }
+        ]
+    },
+    {
+        "Order_ID": 67973,
+        "Customer_ID": 6137,
+        "Order_Date": "2024-01-14",
+        "Store_ID": 1,
+        "Total_Amount": 387.4,
+        "Items": [
+            {
+                "Product_ID": 2016,
+                "Quantity": 2,
+                "Unit_Price": 15.13
+            },
+            {
+                "Product_ID": 2016,
+                "Quantity": 5,
+                "Unit_Price": 80.06
+            }
+        ]
+    },
+    {
+        "Order_ID": 60036,
+        "Customer_ID": 6307,
+        "Order_Date": "2024-01-09",
+        "Store_ID": 2,
+        "Total_Amount": 315.0,
+        "Items": [
+            {
+                "Product_ID": 2006,
+                "Quantity": 2,
+                "Unit_Price": 172.68
+            },
+            {
+                "Product_ID": 2008,
+                "Quantity": 5,
+                "Unit_Price": 99.34
+            }
+        ]
+    },
+    {
+        "Order_ID": 92631,
+        "Customer_ID": 5859,
+        "Order_Date": "2023-11-13",
+        "Store_ID": 4,
+        "Total_Amount": 371.95,
+        "Items": [
+            {
+                "Product_ID": 2019,
+                "Quantity": 2,
+                "Unit_Price": 18.61
+            }
+        ]
+    },
+    {
+        "Order_ID": 17722,
+        "Customer_ID": 8485,
+        "Order_Date": "2024-03-08",
+        "Store_ID": 5,
+        "Total_Amount": 146.04,
+        "Items": [
+            {
+                "Product_ID": 2013,
+                "Quantity": 3,
+                "Unit_Price": 160.61
+            },
+            {
+                "Product_ID": 2013,
+                "Quantity": 5,
+                "Unit_Price": 195.2
+            }
+        ]
+    },
+    {
+        "Order_ID": 76567,
+        "Customer_ID": 7943,
+        "Order_Date": "2023-08-11",
+        "Store_ID": 1,
+        "Total_Amount": 463.38,
+        "Items": [
+            {
+                "Product_ID": 2017,
+                "Quantity": 3,
+                "Unit_Price": 70.01
+            },
+            {
+                "Product_ID": 2017,
+                "Quantity": 2,
+                "Unit_Price": 41.05
+            }
+        ]
+    },
+    {
+        "Order_ID": 66530,
+        "Customer_ID": 6251,
+        "Order_Date": "2024-11-19",
+        "Store_ID": 4,
+        "Total_Amount": 360.08,
+        "Items": [
+            {
+                "Product_ID": 2006,
+                "Quantity": 2,
+                "Unit_Price": 179.16
+            },
+            {
+                "Product_ID": 2002,
+                "Quantity": 1,
+                "Unit_Price": 31.82
+            }
+        ]
+    },
+    {
+        "Order_ID": 40147,
+        "Customer_ID": 5659,
+        "Order_Date": "2024-04-26",
+        "Store_ID": 2,
+        "Total_Amount": 85.84,
+        "Items": [
+            {
+                "Product_ID": 2008,
+                "Quantity": 1,
+                "Unit_Price": 149.56
+            },
+            {
+                "Product_ID": 2007,
+                "Quantity": 1,
+                "Unit_Price": 153.03
+            }
+        ]
+    },
+    {
+        "Order_ID": 36246,
+        "Customer_ID": 5422,
+        "Order_Date": "2024-02-14",
+        "Store_ID": 3,
+        "Total_Amount": 477.46,
+        "Items": [
+            {
+                "Product_ID": 2017,
+                "Quantity": 2,
+                "Unit_Price": 91.82
+            }
+        ]
+    },
+    {
+        "Order_ID": 63461,
+        "Customer_ID": 8214,
+        "Order_Date": "2023-08-27",
+        "Store_ID": 2,
+        "Total_Amount": 430.21,
+        "Items": [
+            {
+                "Product_ID": 2001,
+                "Quantity": 4,
+                "Unit_Price": 73.76
+            },
+            {
+                "Product_ID": 2009,
+                "Quantity": 3,
+                "Unit_Price": 83.92
+            },
+            {
+                "Product_ID": 2019,
+                "Quantity": 4,
+                "Unit_Price": 149.98
+            }
+        ]
+    },
+    {
+        "Order_ID": 73731,
+        "Customer_ID": 8524,
+        "Order_Date": "2024-10-06",
+        "Store_ID": 1,
+        "Total_Amount": 416.4,
+        "Items": [
+            {
+                "Product_ID": 2017,
+                "Quantity": 4,
+                "Unit_Price": 54.67
+            }
+        ]
+    },
+    {
+        "Order_ID": 87329,
+        "Customer_ID": 8751,
+        "Order_Date": "2024-03-03",
+        "Store_ID": 4,
+        "Total_Amount": 53.04,
+        "Items": [
+            {
+                "Product_ID": 2003,
+                "Quantity": 2,
+                "Unit_Price": 97.07
+            }
+        ]
+    },
+    {
+        "Order_ID": 58051,
+        "Customer_ID": 8225,
+        "Order_Date": "2023-06-08",
+        "Store_ID": 5,
+        "Total_Amount": 420.64,
+        "Items": [
+            {
+                "Product_ID": 2006,
+                "Quantity": 4,
+                "Unit_Price": 126.37
+            }
+        ]
+    },
+    {
+        "Order_ID": 27471,
+        "Customer_ID": 6308,
+        "Order_Date": "2023-09-06",
+        "Store_ID": 4,
+        "Total_Amount": 217.88,
+        "Items": [
+            {
+                "Product_ID": 2007,
+                "Quantity": 2,
+                "Unit_Price": 17.88
+            }
+        ]
+    },
+    {
+        "Order_ID": 90962,
+        "Customer_ID": 9409,
+        "Order_Date": "2024-08-23",
+        "Store_ID": 5,
+        "Total_Amount": 152.0,
+        "Items": [
+            {
+                "Product_ID": 2003,
+                "Quantity": 5,
+                "Unit_Price": 179.44
+            }
+        ]
+    },
+    {
+        "Order_ID": 57442,
+        "Customer_ID": 6144,
+        "Order_Date": "2024-02-03",
+        "Store_ID": 4,
+        "Total_Amount": 377.82,
+        "Items": [
+            {
+                "Product_ID": 2009,
+                "Quantity": 2,
+                "Unit_Price": 108.35
+            },
+            {
+                "Product_ID": 2002,
+                "Quantity": 2,
+                "Unit_Price": 16.34
+            },
+            {
+                "Product_ID": 2007,
+                "Quantity": 3,
+                "Unit_Price": 110.37
+            }
+        ]
+    },
+    {
+        "Order_ID": 22311,
+        "Customer_ID": 7040,
+        "Order_Date": "2025-02-23",
+        "Store_ID": 1,
+        "Total_Amount": 440.71,
+        "Items": [
+            {
+                "Product_ID": 2014,
+                "Quantity": 5,
+                "Unit_Price": 132.51
+            },
+            {
+                "Product_ID": 2009,
+                "Quantity": 5,
+                "Unit_Price": 76.13
+            },
+            {
+                "Product_ID": 2011,
+                "Quantity": 3,
+                "Unit_Price": 128.01
+            }
+        ]
+    },
+    {
+        "Order_ID": 77942,
+        "Customer_ID": 6405,
+        "Order_Date": "2024-04-11",
+        "Store_ID": 5,
+        "Total_Amount": 66.83,
+        "Items": [
+            {
+                "Product_ID": 2018,
+                "Quantity": 5,
+                "Unit_Price": 90.01
+            },
+            {
+                "Product_ID": 2006,
+                "Quantity": 5,
+                "Unit_Price": 77.35
+            }
+        ]
+    }
+]
