@@ -30,3 +30,4 @@ aws_credentials
 # VS Code
 .vscode/
 .local_resource/.DS_Store
+.DS_Store
